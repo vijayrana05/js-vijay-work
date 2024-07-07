@@ -18,4 +18,4 @@ console.log(typeof myFunction)
 const name = "vijay"
 const standard =  12
 console.log(`my name is ${name} from class ${standard}`)
-
+console.log("vijay")
