@@ -7,7 +7,8 @@ console.log(typeof str)
 console.log(typeof temp)
 console.log(typeof carName)
 
-
+//null type is object
+//undefined type is undefined
 const myFunction = function() {
     console.log("this is a funciton")
 }
